@@ -66,7 +66,7 @@ Since a clean Gurugram dataset was not available, the California Housing Dataset
 
 
 
-\### 4. Data Cleaning and Preprocessing
+### 4. Data Cleaning and Preprocessing
 
 - Handled missing values
 
